@@ -1,6 +1,6 @@
 # What happens when ... Kubernetes edition!
 
-Imagine I want to deploy nginx to a Kubernetes cluster. I'd probably type something like this in my terminal:
+Imagine I want to deploy nginx to a Kubernetes cluster. I'd probably type something like this in my [terminal](ter.mi.nal 终端):
 
 ```bash
 kubectl run nginx --image=nginx --replicas=3
